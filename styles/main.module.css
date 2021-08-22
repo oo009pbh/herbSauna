@@ -1,0 +1,78 @@
+.content {
+  height: calc(300vh + 140px); 
+  background-color: white;
+  margin-top : 64px;
+}
+.section2 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  justify-content: space-around;
+  transition: 0.3s ease-in-out;
+}
+.section2 article{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.section2 article div{
+  height: 350px;
+  width: 350px;
+  border-radius: 10%;
+  box-shadow: 1px 1px 10px rgb(0 0 0 / 15%);
+}
+.title{
+  height: 30%;
+  display: flex;
+  flex-direction: column;
+}
+.images{
+  height: 70%;
+}
+.titleText{
+  height: 40%;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  font: 30px 'Noto Sans KR', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
+  color:white;
+  margin: 0;
+}
+.box:hover {
+  transform: translate(0, -20px);
+  transition: 0.3s;
+}
+.section3 {
+  height: 100vh;
+  background-color: blanchedalmond;
+  display: flex;
+  justify-content: space-between;
+}
+.section3 article{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.section3 article div{
+  background-color: white;
+  height: 50%;
+  width: 50%;
+}
+.section3 article li{
+  list-style: none;
+  padding: 12px 24px;
+}
+.facilityImage{
+  width: 65%;
+  background-color: beige;
+}
+.facilities{
+  width: 30%;
+  background-color: orange;
+}
