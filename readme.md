@@ -43,9 +43,3 @@
 
 ## 현재까지 이미지
 
-![용허찜 프로젝트2](C:\Users\oo009\Desktop\용허찜 프로젝트2.PNG)
-
-![용허찜 프로젝트3](C:\Users\oo009\Desktop\용허찜 프로젝트3.PNG)
-
-![용허찜 프로젝트](C:\Users\oo009\Desktop\용허찜 프로젝트.PNG)
-
