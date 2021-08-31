@@ -25,3 +25,12 @@ export const mainSect2ImageList = {
     },
 };
 
+export const mainSect3ImageList = {
+    "footbathroom" : require("./mainsect3/footbathroom.png").default,
+    "restaurant" : require("./mainsect3/restaurant.png").default,
+    "restroom" : require("./mainsect3/restroom.png").default,
+    "showerbooth" : require("./mainsect3/showerbooth.png").default,
+    "terrace" : require("./mainsect3/terrace.png").default,
+    "playroom" : require("./mainsect3/playroom.png").default,
+};
+

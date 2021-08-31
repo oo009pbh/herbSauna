@@ -11,5 +11,8 @@ export const Global = createGlobalStyle`
         }
         }
     }
+    .slick-slide:not(.slick-active) {
+        opacity: 0.5;
+    }
 `;
 
